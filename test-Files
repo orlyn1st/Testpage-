@@ -1,0 +1,132 @@
+[
+  {
+    "eventName": "Trinidad and Tobago Carnival 2025",
+    "island": "Trinidad & Tobago",
+    "city": "Port-of-Spain",
+    "dates": "March 3–4, 2025",
+    "summary": "The biggest Caribbean carnival — soca, masquerade, road marches, fetes, and legendary vibes.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Carnival",
+    "images": {
+      "scenic": "https://example.com/images/tt-carnival-port-of-spain-skyline.jpg",
+      "festive": "https://example.com/images/tt-carnival-party-crowd.jpg"
+    },
+    "tags": ["Carnival", "Soca", "Culture", "Festival"]
+  },
+  {
+    "eventName": "Barbados Crop Over Festival 2025",
+    "island": "Barbados",
+    "city": "Bridgetown & various parades",
+    "dates": "Summer – early August 2025",
+    "summary": "Iconic summer festival featuring calypso, beach parties, parades and island-wide culture.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Crop_Over",
+    "images": {
+      "scenic": "https://example.com/images/barbados-beach-bridgetown.jpg",
+      "festive": "https://example.com/images/barbados-crop-over-party.jpg"
+    },
+    "tags": ["Carnival", "Calypso", "Beach Party", "Festival"]
+  },
+  {
+    "eventName": "Jamaica Carnival 2025 (Bacchanal / Road March)",
+    "island": "Jamaica",
+    "city": "Kingston & other venues",
+    "dates": "2025 Carnival Season (Spring/Summer)",
+    "summary": "Soca, dancehall, road marches and beach fetes across Jamaica — high-energy island vibes.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Caribbean_carnivals_around_the_world",
+    "images": {
+      "scenic": "https://example.com/images/jamaica-kingston-city.jpg",
+      "festive": "https://example.com/images/jamaica-carnival-crowd.jpg"
+    },
+    "tags": ["Carnival", "Soca", "Dancehall", "Island Party"]
+  },
+  {
+    "eventName": "Grenada Spicemas 2025",
+    "island": "Grenada",
+    "city": "St. George's & island venues",
+    "dates": "August 2025",
+    "summary": "Spice Isle’s annual celebration — calypso, beach fetes, parades, local culture and carnival spirit.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/List_of_Caribbean_carnivals_around_the_world",
+    "images": {
+      "scenic": "https://example.com/images/grenada-st-georges-harbor.jpg",
+      "festive": "https://example.com/images/grenada-spicemas-party.jpg"
+    },
+    "tags": ["Carnival", "Spice", "Culture", "Festival"]
+  },
+  {
+    "eventName": "Antigua Carnival 2025",
+    "island": "Antigua & Barbuda",
+    "city": "St. John's & island venues",
+    "dates": "Late July – Early August 2025",
+    "summary": "Traditional Caribbean carnival — masquerade, parades, beach parties and cultural celebrations.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Antigua_Carnival",
+    "images": {
+      "scenic": "https://example.com/images/antigua-st-johns-port.jpg",
+      "festive": "https://example.com/images/antigua-carnival-crowd.jpg"
+    },
+    "tags": ["Carnival", "Masquerade", "Beach Party", "Festival"]
+  },
+  {
+    "eventName": "St. Lucia Carnival 2025",
+    "island": "St. Lucia",
+    "city": "Castries & island venues",
+    "dates": "2025 Carnival Season (Summer)",
+    "summary": "Soca and island rhythm with stunning scenery — beach fetes, parades and cultural vibes.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/List_of_Caribbean_carnivals_around_the_world",
+    "images": {
+      "scenic": "https://example.com/images/st-lucia-castries-bay.jpg",
+      "festive": "https://example.com/images/st-lucia-carnival-party.jpg"
+    },
+    "tags": ["Carnival", "Soca", "Beach Party", "Festival"]
+  },
+  {
+    "eventName": "Bahamas Carnival 2025",
+    "island": "Bahamas",
+    "city": "Nassau & main venues",
+    "dates": "June 5–9, 2025",
+    "summary": "Blending Junkanoo heritage with carnival energy — street parades, music and island fun.",
+    "referenceUrl": "https://travelnoire.com/caribbean-carnival-calendar-2025",
+    "images": {
+      "scenic": "https://example.com/images/bahamas-nassau-harbor.jpg",
+      "festive": "https://example.com/images/bahamas-carnival-crowd.jpg"
+    },
+    "tags": ["Carnival", "Junkanoo", "Parade", "Festival"]
+  },
+  {
+    "eventName": "Curaçao Carnival 2025 (Nos Karnaval)",
+    "island": "Curaçao",
+    "city": "Willemstad & island venues",
+    "dates": "February 28 – March 5, 2025",
+    "summary": "Colorful Caribbean carnival celebration with parades, music, culture and island vibes.",
+    "referenceUrl": "https://travelnoire.com/caribbean-carnival-calendar-2025",
+    "images": {
+      "scenic": "https://example.com/images/curacao-willemstad-harbor.jpg",
+      "festive": "https://example.com/images/curacao-carnival-crowd.jpg"
+    },
+    "tags": ["Carnival", "Parade", "Culture", "Festival"]
+  },
+  {
+    "eventName": "Puerto Rico Carnaval de Ponce 2025",
+    "island": "Puerto Rico",
+    "city": "Ponce",
+    "dates": "Feb 21 – Mar 4, 2025 (tentative)",
+    "summary": "Historic carnival with deep tradition, music, parades and Afro-Caribbean culture.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Carnaval_de_Ponce",
+    "images": {
+      "scenic": "https://example.com/images/puerto-rico-ponce-city.jpg",
+      "festive": "https://example.com/images/puerto-rico-carnival.jpg"
+    },
+    "tags": ["Carnival", "Tradition", "Parade", "Culture"]
+  },
+  {
+    "eventName": "Guyana Mashramani 2025",
+    "island": "Guyana",
+    "city": "Georgetown",
+    "dates": "Feb 23, 2025",
+    "summary": "Celebrate Guyanese independence — carnival-style parade, music, costumes and Caribbean unity spirit.",
+    "referenceUrl": "https://en.wikipedia.org/wiki/Mashramani",
+    "images": {
+      "scenic": "https://example.com/images/guyana-georgetown-river.jpg",
+      "festive": "https://example.com/images/guyana-mashramani-parade.jpg"
+    },
+    "tags": ["Carnival", "Independence", "Parade", "Culture"]
+  }
+]
